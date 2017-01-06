@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_87859fe876ed4c19adb3462ef84cd06e397f06fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_20551772d55b8acd48c109c3c48804499984d8f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\build\intermediates\pre-dexed\debug\audio_f7ea70978eacaa9e609b26189948f8ad04c98b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_0868595bda7febe700ab7d3264c10a4156a142b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\December\21.12.2016\Sample1\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\Android\December\21.12.2016\Sample1\CardboardSample\build\intermediates\pre-dexed\debug\audio_2121d030817f3a67026efe2adda6ab4457a42e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\December\21.12.2016\Sample1\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\Android\December\21.12.2016\Sample1\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_81af5d1020ad96d5e0ff4020c03a43550d111f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\build\intermediates\pre-dexed\debug\audio_7edb0f5a49a18ae7b8eadc62c4dd5c20081d45fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample1\CardboardSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_59b6e2bd149c9dbbaef495d152af14f585fe922f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\December\21.12.2016\Sample1\CardboardSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\December\21.12.2016\Sample1\CardboardSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_5963150e1fd543aee1730adef76f2068b44d5083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\build\intermediates\pre-dexed\debug\audio_7ae2e485726c97f2b1ef4659ae116a3acabbe870.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_2a20095194fa5c581e37a5363b98c6a6544cae46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_02930ceb4edbe883fd733493dc81c7c219eb0892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\libs\audio.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="74fcb5c43eb6843ec691a1a1013a4d38eac2de41">
+        <dex dex="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\build\intermediates\pre-dexed\debug\audio_784daa674a85558a45841cc9f21a42f86e75923f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\Android\2017\January\6.1.2017\CardBoardSample\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_48564748dcce85c160fc4a4cc0197a2568d14bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Android\AndroidProject\explore-vr-with-google-cardboard-master\CardboardSample\build\intermediates\pre-dexed\debug\support-v4-19.1.0_73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\libs\cardboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="19.1.0"
+        sha1="32c8e30df7bdcbf982603f70aeaf89e207f44219">
+        <dex dex="D:\Android\2017\January\2.1.2017\CardBoardSample2\CardboardSample\build\intermediates\pre-dexed\debug\cardboard_9152432a29c23f81ff84768354addcfd3ebc45be.jar" />
+    </item>
+
+</items>

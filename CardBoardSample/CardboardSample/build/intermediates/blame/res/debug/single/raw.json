@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\light_vertex.shader",
+        "source": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\src\\main\\res\\raw\\light_vertex.shader"
+    },
+    {
+        "merged": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\grid_fragment.shader",
+        "source": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\src\\main\\res\\raw\\grid_fragment.shader"
+    },
+    {
+        "merged": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\grid_fragment.shader",
+        "source": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\src\\main\\res\\raw\\grid_fragment.shader"
+    },
+    {
+        "merged": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\passthrough_fragment.shader",
+        "source": "D:\\Android\\2017\\January\\6.1.2017\\CardBoardSample\\CardboardSample\\src\\main\\res\\raw\\passthrough_fragment.shader"
+    },
+    {
+        "merged": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\passthrough_fragment.shader",
+        "source": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\src\\main\\res\\raw\\passthrough_fragment.shader"
+    },
+    {
+        "merged": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\build\\intermediates\\res\\merged\\debug\\raw\\light_vertex.shader",
+        "source": "D:\\Android\\2017\\January\\2.1.2017\\CardBoardSample2\\CardboardSample\\src\\main\\res\\raw\\light_vertex.shader"
+    }
+]
